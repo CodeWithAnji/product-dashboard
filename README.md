@@ -3,7 +3,6 @@
 A fully responsives product-dashboard built with **React**, **Vite**, and **TailwindCSS**.  
 It allows users to **view, search, add, edit,** and **delete** products with smooth transitions and a modern UI
 
----
 
 **1. Setup Instructions**
 
